@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomColorGen", "RandomColorGen\RandomColorGen.csproj", "{781E1977-CDD0-4740-8949-F572DE10755C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomColorGen.Test", "RandomColorGen.Test\RandomColorGen.Test.csproj", "{7C5726D1-37F7-4BEA-A7BF-D5BD815B0494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781E1977-CDD0-4740-8949-F572DE10755C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781E1977-CDD0-4740-8949-F572DE10755C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781E1977-CDD0-4740-8949-F572DE10755C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781E1977-CDD0-4740-8949-F572DE10755C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5726D1-37F7-4BEA-A7BF-D5BD815B0494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5726D1-37F7-4BEA-A7BF-D5BD815B0494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5726D1-37F7-4BEA-A7BF-D5BD815B0494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5726D1-37F7-4BEA-A7BF-D5BD815B0494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0441E79F-497A-4FA7-93DF-F93BB5F3052E}
+	EndGlobalSection
+EndGlobal
