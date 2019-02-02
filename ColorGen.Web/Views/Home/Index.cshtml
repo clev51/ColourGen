@@ -1,0 +1,9 @@
+﻿@using RandomColorGen
+@{
+    ViewData["Title"] = "Home Page";
+    string colorOfTheDay = new ColourGen().Generate();
+}
+
+<div class="row">
+    <div class="col-lg-12"><h1>ColorGen of the Day: @colorOfTheDay </h1></div>
+</div>
