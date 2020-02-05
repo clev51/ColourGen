@@ -12,8 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CI", "CI", "{D6E42F94-1E03-
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorGen.Web", "ColorGen.Web\ColorGen.Web.csproj", "{A8C17410-7BA5-41E5-9B75-B483FC838B50}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
