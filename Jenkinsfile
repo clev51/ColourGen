@@ -4,6 +4,7 @@ pipeline {
     stage('UI Test') {
       steps {
         echo 'running tests'
+        git(url: 'https://github.com/clev51/ColourGen', branch: 'master')
       }
     }
 
